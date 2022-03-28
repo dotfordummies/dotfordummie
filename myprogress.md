@@ -11,7 +11,7 @@
 
 ## Articles
 
-#### Simple explanations of dotfordummies
+#### Simple explanations of polkadot ecosystem
 - [x] [Thiscoindaily - Learn to build Substrate pallets from scratch -Dissecting the FRAME pallet](ttps://thiscoindaily.com/learn-to-build-substrate-pallets-from-scratch-dissecting-the-frame-pallet/)
 - [ ] [By Abdulbee - The principled guide to keeping yourself safe in the DotSama ecosystem](https://thiscoindaily.com/the-principled-guide-to-keeping-yourself-safe-in-the-dotsama-ecosystem/)
 - [ ] [Parity Substrate -  A systematic guide to exploring Substrate Learning substrate could seem daunting at,](https://thiscoindaily.com/a-systematic-guide-to-exploring-substrate/)
