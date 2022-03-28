@@ -1,11 +1,11 @@
 # dotfordummies: Comprehensive Dotsama Reading List</p>
 ### Found a great resource? Add it by submitting a Pull Request!
 
-<!-- Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge Izquierdo and Luis Cuende (Aragon), Jake Brukhman (CoinFund), Maksim Balashevich (Santiment), Michal Brazewicz (Status), Nate Rush, Krishna Aradhi, Justin Poirier, Griff Green (Giveth.io), Eeks, Anonymous -->
 
-<a href="http://twitter.com/home?status=Check%20out%20this%20awesome%20Ethereum%20Reading%20List:%20www.scanate.co/eth">Articles about this list!</a>
 
-| [Articles](#Articles) <!-- | [Getting Started](#getting-started) | [Ecosystem](#ecosystem) | [Thought Pieces](#thought-pieces) | [Trading](#trading) | [Programming](#programming) | [Legal](#legal) -->
+<a href="/">Articles about this list!</a>
+
+| [Articles](#Articles) 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 
@@ -17,6 +17,8 @@
 - [ ] [Parity Substrate -  A systematic guide to exploring Substrate Learning substrate could seem daunting at,](https://thiscoindaily.com/a-systematic-guide-to-exploring-substrate/)
 - [ ] [Dotsama -Getting into blockchain and Web3 technologies can be daunting.That is why we are providing ](https://app.subsocial.network/6110/best-practices-for-safety-in-web3-31617)
 - [ ] [By Rory Jenkins - Kusama is a public pre-production environment for polkadot,](https://medium.com/@rory.jenkins42/introduction-to-kusama-4b390b74efd9) 
+
+
 
 
 - [ ] [Sebastian Cripto - La ventaja de Parachain: Exploración del modelo de próxima generación de Polkadot   ](https://app.subsocial.network/@PolkadotEspanol/la-ventaja-de-parachain-exploracion-del-modelo-de-proxima-27890) 
